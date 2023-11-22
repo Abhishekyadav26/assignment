@@ -1,2 +1,1 @@
-# code
-it my first code in github
+assignment of colleage
